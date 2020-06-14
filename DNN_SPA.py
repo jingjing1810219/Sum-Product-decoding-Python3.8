@@ -160,10 +160,3 @@ def H_V_C_f(H, H_C_V, H_edges, LLR, no_self_mess=True):
 
 
 ##############################################################################
-"""
-H_edges = H_edges_f(H)
-
-H_V_C_inital = H_V_C_initial_f(H, H_edges, LLR)
-c_v = H_C_V_f(H, H_V_C_inital, H_edges)
-v_c = H_V_C_f(H, c_v, H_edges, LLR, False)
-"""
