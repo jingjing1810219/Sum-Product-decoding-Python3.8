@@ -9,4 +9,4 @@ You can acces his git
 https://lorenlugosch.github.io/
 
 
-Thank you very much.
+If you want use my code, just let me know. Thank you very much.
