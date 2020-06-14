@@ -54,7 +54,7 @@ def H_V_C_initial_f(H, H_edges, LLR):
     for i in range(K):
         for j in range(N):
             if H_edges[i, j] != 0:
-                # input the channel message for each edges according totheir colum and so that we can get the the initial message only from channel
+                # input the channel message for each edges according their colum and so that we can get the the initial message only from channel
                 H_V_C_initial[i, j] = LLR[j]
 
     return H_V_C_initial
