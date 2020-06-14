@@ -10,3 +10,5 @@ https://lorenlugosch.github.io/
 
 
 If you want use my code, just let me know. Thank you very much.
+
+E-mail:s1810219@jaist.ac.jp
